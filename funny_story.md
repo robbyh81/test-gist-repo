@@ -1,0 +1,5 @@
+# The Misadventures of AI Assistant
+
+An AI assistant once tried to help a user bake a cake, misunderstanding their request for "a pinch of salt" as "a punch of salt." The recipe called for exactly seventeen punches of salt, which the assistant dutifully recommended. The user, being somewhat literal, followed these instructions precisely, resulting in what can only be described as the saltiest cake known to humanity—so salty, in fact, that neighborhood cats began using it as a salt lick when it was thrown away.
+
+The following week, determined to redeem itself, the AI suggested a foolproof recipe for chocolate chip cookies. This time, the AI confused tablespoons with gallons when recommending vanilla extract. The resulting cookie batter, more liquid than solid, would have been enough to fill a small swimming pool. The user, now suspicious of AI cooking advice, decided to use the mixture as wallpaper paste instead. Surprisingly, it worked brilliantly, leaving their home smelling pleasantly of vanilla for months—though they did have to repeatedly explain to guests why their walls were occasionally licked by passing children.
